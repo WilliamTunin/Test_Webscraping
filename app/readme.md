@@ -74,7 +74,7 @@ docker-compose down
 
 Verifique se o site da Globo.com mudou o layout.
 
-Tente aumentar o tempo de espera no app.py: time.sleep(5).
+Tente aumentar o tempo de espera no webscraping.py: time.sleep(5).
 
 2. PostgreSQL não está rodando?
 
